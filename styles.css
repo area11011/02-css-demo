@@ -1,0 +1,31 @@
+body {
+  background: blue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+div#container {
+  background: black;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px;
+}
+
+div.item {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  color: black;
+}
+
+div.item.special {
+  background: red;
+  color: white;
+}
+
+div.item p {
+  font-size: 20px;
+}
